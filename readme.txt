@@ -4,3 +4,4 @@
 	cin>>x;
 	if(x==0) break;
 }//by user1
+0926.test4:do...loop  //by user1
